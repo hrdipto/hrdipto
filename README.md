@@ -1,6 +1,3 @@
-
-<img alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 <h2> I'm Dipto, a Deep Learning Enthusiast! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p><em>currently, Software Enginner at <a href="http://www.adipster.com">Adipster</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
